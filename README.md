@@ -8,3 +8,11 @@ MealMap AI also suggests healthier alternatives to junk food, reduces food waste
 
 ## Status
 Day 2 setup in progress.
+
+## Day 4 Progress
+
+- Defined evaluation metrics: relevance, consistency, personalization, practicality, readability
+- Expanded test cases for low budget meals, limited ingredients, and multiple cuisines
+- Refined prompt structure to improve variety and meal quality
+- Added safety considerations and response validation planning
+- Documented latency and cost optimization ideas
