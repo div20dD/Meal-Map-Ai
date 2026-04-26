@@ -16,3 +16,43 @@ Day 2 setup in progress.
 - Refined prompt structure to improve variety and meal quality
 - Added safety considerations and response validation planning
 - Documented latency and cost optimization ideas
+
+  ## Final day submission
+  #  MealMap AI
+
+MealMap AI is a web application I built that helps users generate personalized meal plans based on their goals, body details, and available ingredients. The idea is to make meal planning simpler and reduce the stress of deciding what to eat every day.
+
+---
+
+## Live Demo
+https://drive.google.com/file/d/1619407eGS-IFAdS3ZYGiXI6n3IgGiem9/view?usp=drive_link
+
+---
+
+##  What it does
+
+- Takes user inputs like weight, height, goal, cuisine preference, and budget
+- Generates a 7-day meal plan (breakfast, lunch, dinner, snacks)
+- Includes a simulated smart fridge scan that adds ingredients automatically
+- Creates a grocery list based on missing ingredients
+- Has a simple AI chat assistant for basic nutrition advice
+
+---
+
+## 🛠️ Built using
+
+- React (Vite)
+- JavaScript
+- HTML & CSS
+- React Hooks
+
+---
+
+##  Why I built it
+
+I wanted to create something practical that connects nutrition and technology. MealMap AI is designed to help people eat better, waste less food, and make meal planning easier.
+
+---
+
+
+  
